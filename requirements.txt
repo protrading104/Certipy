@@ -1,0 +1,10 @@
+cryptography
+asn1crypto
+pyasn1
+pycryptodome
+unicrypto
+ldap3
+requests
+dnspython
+minikerberos
+certifi
